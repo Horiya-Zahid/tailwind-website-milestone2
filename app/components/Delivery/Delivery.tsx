@@ -1,4 +1,5 @@
 import React from 'react';
+//@/public/images/delivery.svg
 import Image from 'next/image';
 import DeliveryImg from "@/public/images/delivery.svg"
 import { RiEBike2Fill } from 'react-icons/ri';
